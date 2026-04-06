@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python nara_query.py -n 설계 --csv --plot --limit 5)",
+      "Bash(python -m pip install matplotlib -q)",
+      "Bash(python nara_query.py -n 설계 --plot --limit 5)"
+    ]
+  }
+}
